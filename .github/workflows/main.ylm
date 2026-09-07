@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/VI-Alumno/mi-proyecto-api:latest
+          tags: ghcr.io/Diego-ai-he/mi-proyecto-api:latest
